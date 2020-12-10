@@ -1,0 +1,11 @@
+DATASETS USED:
+1) flights dataset ( small dataset, 332 nodes, 2.1k edges) INFRASTRUCTURE NETWORK
+link: http://networkrepository.com/inf-USAir97.php
+2) enron email data ( small dataset, 143 nodes, 620 edges) EMAIL NETWORK
+link: http://networkrepository.com/email-enron-only.php
+3) netscience dataset ( 379 nodes , 914 edges ) COLLABORATION NETWORK
+link: http://networkrepository.com/ca-netscience.php
+4)  wikivote dataset (889 nodes , 2.9k edges ) SOCIAL NETWORK
+link: http://networkrepository.com/soc-wiki-Vote.php
+5) fb messages dataset (1.3k nodes, 6.5k edges ) INTERACTION NETWORK - this one is our biggest so we add him last
+link: http://networkrepository.com/ia-fb-messages.php
